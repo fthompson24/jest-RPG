@@ -21,5 +21,8 @@
   "directories": {
     "lib": "lib"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
